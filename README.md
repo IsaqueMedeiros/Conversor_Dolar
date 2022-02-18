@@ -2,7 +2,7 @@
 <h2>Sobre</h2>
 <p>Conversor básico de dólar para real.</p>
 <h1>Teste Aqui<h1>
- <p>https://isaquemedeiros.github.io/Conversor_Dolar/</p>
+ <a href="https://isaquemedeiros.github.io/Empresa_Solar/" target="_blank">Site da empresa</a>
  <h2>Tecnologias usadas</h2>
  <ul>
    <li><P>Html</P></li>
