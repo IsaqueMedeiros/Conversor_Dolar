@@ -1,6 +1,6 @@
 # Conversor de Dólar
 <h2>Sobre</h2>
-<p>Conversor básico de] dólar para real.</p>
+<p>Conversor básico de dólar para real.</p>
  <h2>Tecnologias usadas</h2>
  <ul>
    <li><P>Html</P></li>
